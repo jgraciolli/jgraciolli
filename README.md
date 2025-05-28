@@ -1,8 +1,7 @@
-- 👋 Hi, I’m João Victor
-- Nowadays I’m working as a Programming Intern, dealing mostly with technologies like:
-- Delphi FMX | SQLite | MySQL | Javascript | Node.js | React
+<h2>👋 Hi, my name is João Victor</h2>
 
-<!---
-jgraciolli/jgraciolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>I am currently working as a <b>Programming Intern</b>, mostly dealing with these technologies:</p>
+
+<p>Delphi FMX | SQLite | MySQL | Javascript | Node.js | React</p>
+
+<p>In my free time, I've been studying JavaScript and building personal projects to practice.<br> I'm aiming to become a full-stack developer.</p>
